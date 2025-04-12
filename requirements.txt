@@ -1,0 +1,6 @@
+# Requirements for GPS NEO-6M Mapping Application
+pyserial>=3.5
+pynmea2>=1.18.0
+folium>=0.12.1
+flask>=2.0.1
+gpiod>=1.5.3  # For Raspberry Pi GPIO control
